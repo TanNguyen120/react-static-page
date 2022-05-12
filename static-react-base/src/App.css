@@ -42,7 +42,6 @@
   background-color: #282c34;
   color: bisque;
   padding: 10px;
-  margin: 10px;
 }
 
 .nav-item > h4 {
@@ -54,4 +53,19 @@
   margin-right: auto;
 }
 .main-div {
+  padding: 10px 15px;
+  color: whitesmoke;
+}
+
+.main-ol {
+  padding-block: 10px;
+  font-family: Inter;
+  font-size: 34px;
+  font-weight: 400;
+  max-width: 600px;
+}
+
+.main-ol > li {
+  line-height: 8px;
+  padding-block: 30px;
 }

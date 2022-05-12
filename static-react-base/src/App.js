@@ -3,20 +3,7 @@ import './App.css';
 import NavBar from './components/NavBar';
 import Main from './components/Main';
 
-function ListAboutYogg() {
-  return (
-    <div>
-      <h1>Thing I like About Yogg Sharon</h1>
-      <ol>
-        <li> He an Old God</li>
-        <li> Have Beautiful teeth</li>
-        <li> TENTACLES</li>
-        <li>And Most Important RANDOM</li>
-        <li>He some time will stab you in the back</li>
-      </ol>
-    </div>
-  )
-}
+
 
 function Header() {
   return (
